@@ -1,3 +1,4 @@
+/*Fixed broken css*/
 body {
   font-size: 14px;
 }
@@ -36,7 +37,7 @@ h3 {
   margin: 10px;
   width: 100%;
 }
-
+/*Changed div color*/
 .orange_element {
   background-color: orange;
   height: 100px;
